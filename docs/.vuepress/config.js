@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/leo-blog/",
   title: "Leo's Starship",
   description: "Just playing around",
   themeConfig: {
